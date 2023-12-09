@@ -1,0 +1,2670 @@
+{
+  "1000FLOKIUSDT": {
+    "coin": "FLOKI",
+    "ticker": "FLOKI",
+    "tv": "1000FLOKIUSDT.P",
+    "circ_supply": 9959414421930.0,
+    "tags": [
+      "BNB",
+      "DWF",
+      "Dog",
+      "Elon",
+      "Ethereum",
+      "GameFi",
+      "Meme",
+      "Metaverse",
+      "NFT",
+      "2023"
+    ]
+  },
+  "1000LUNCUSDT": {
+    "coin": "Terra Luna Classic",
+    "ticker": "LUNC",
+    "tv": "1000LUNCUSDT.P",
+    "circ_supply": 5805886793183.0,
+    "tags": [
+      "Cosmos",
+      "Contracts",
+      "Terra"
+    ]
+  },
+  "USTCUSDT": {
+    "coin": "TerraClassicUSD",
+    "ticker": "USTC",
+    "tv": "USTCUSDT.P",
+    "circ_supply": 8976487568.0,
+    "tags": [
+      "Terra",
+      "Scam",
+      "2023"
+    ]
+  },
+  "ONGUSDT": {
+    "coin": "Ontology Gas",
+    "ticker": "ONG",
+    "tv": "ONGUSDT.P",
+    "circ_supply": 1000000000.0,
+    "tags": [
+      "ONG",
+      "2023"
+    ]
+  },
+  "SUPERUSDT": {
+    "coin": "SuperVerse ",
+    "ticker": "SUPER",
+    "tv": "SUPERUSDT.P",
+    "circ_supply": 999998077.0,
+    "tags": [
+      "Ethereum",
+      "2023"
+    ]
+  },
+  "KASUSDT": {
+    "coin": "Kaspa",
+    "ticker": "KAS",
+    "tv": "KASUSDT.P",
+    "circ_supply": 21718381486.0,
+    "tags": [
+      "Layer 1",
+      "2023"
+    ]
+  },
+  "1000BONKUSDT": {
+    "coin": "Bonk",
+    "ticker": "BONK",
+    "tv": "1000BONKUSDT.P",
+    "circ_supply": 93689234980611.0,
+    "tags": [
+      "Ethereum",
+      "Meme",
+      "2023"
+    ]
+  },
+  "PYTHUSDT": {
+    "coin": "Pyth Network",
+    "ticker": "PYTH",
+    "tv": "PYTHUSDT.P",
+    "circ_supply": 10000000000.0,
+    "tags": [
+      "Solana",
+      "2023"
+    ]
+  },
+  "1000PEPEUSDT": {
+    "coin": "Pepe",
+    "ticker": "PEPE",
+    "tv": "1000PEPEUSDT.P",
+    "circ_supply": 420278926724137.0,
+    "tags": [
+      "BNB",
+      "Ethereum",
+      "Meme",
+      "2023"
+    ]
+  },
+  "1000SHIBUSDT": {
+    "coin": "Shiba Inu",
+    "ticker": "SHIB",
+    "tv": "1000SHIBUSDT.P",
+    "circ_supply": 589600722541966.0,
+    "tags": [
+      "BNB",
+      "Dog",
+      "Ethereum",
+      "Meme"
+    ]
+  },
+  "1000XECUSDT": {
+    "coin": "eCash",
+    "ticker": "XEC",
+    "tv": "1000XECUSDT.P",
+    "circ_supply": 19551397527200.0,
+    "tags": [
+      "Governance",
+      "L1"
+    ]
+  },
+  "1INCHUSDT": {
+    "coin": "1inch",
+    "ticker": "1INCH",
+    "tv": "1INCHUSDT.P",
+    "circ_supply": 1043612466.0,
+    "tags": [
+      "AMM",
+      "Avalanche",
+      "BNB",
+      "DEX",
+      "Ethereum",
+      "Exchange",
+      "FTX",
+      "Near",
+      "Polygon"
+    ]
+  },
+  "AAVEUSDT": {
+    "coin": "Aave",
+    "ticker": "AAVE",
+    "tv": "AAVEUSDT.P",
+    "circ_supply": 14625319.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "Ethereum",
+      "Governance",
+      "Lending",
+      "Near",
+      "Polygon",
+      "Yield"
+    ]
+  },
+  "ACHUSDT": {
+    "coin": "Alchemy Pay",
+    "ticker": "ACH",
+    "tv": "ACHUSDT.P",
+    "circ_supply": 6970451277,
+    "tags": [
+      "BNB",
+      "2023"
+    ]
+  },
+  "ADAUSDT": {
+    "coin": "Cardano",
+    "ticker": "ADA",
+    "tv": "ADAUSDT.P",
+    "circ_supply": 34973523830.0,
+    "tags": [
+      "SEC",
+      "Asset Backed",
+      "L1",
+      "Contracts"
+    ]
+  },
+  "AGIXUSDT": {
+    "coin": "SingularityNET",
+    "ticker": "AGIX",
+    "tv": "AGIXUSDT.P",
+    "circ_supply": 1240190435.0,
+    "tags": [
+      "AI",
+      "Ethereum",
+      "2023"
+    ]
+  },
+  "AGLDUSDT": {
+    "coin": "Adventure Gold",
+    "ticker": "AGLD",
+    "tv": "AGLDUSDT.P",
+    "circ_supply": 77362058.0,
+    "tags": [
+      "Ethereum",
+      "Governance",
+      "2023"
+    ]
+  },
+  "ALGOUSDT": {
+    "coin": "Algorand",
+    "ticker": "ALGO",
+    "tv": "ALGOUSDT.P",
+    "circ_supply": 8007815366.0,
+    "tags": [
+      "SEC",
+      "DWF",
+      "L1",
+      "Contracts"
+    ]
+  },
+  "ALICEUSDT": {
+    "coin": "My Neighbor Alice",
+    "ticker": "ALICE",
+    "tv": "ALICEUSDT.P",
+    "circ_supply": 81744714.0,
+    "tags": [
+      "BNB",
+      "GameFi",
+      "Metaverse",
+      "NFT"
+    ]
+  },
+  "ALPHAUSDT": {
+    "coin": "Stella",
+    "ticker": "ALPHA",
+    "tv": "ALPHAUSDT.P",
+    "circ_supply": 823675484.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "Binance Launchpad",
+      "Yield"
+    ]
+  },
+  "AMBUSDT": {
+    "coin": "AirDAO",
+    "ticker": "AMB",
+    "tv": "AMBUSDT.P",
+    "circ_supply": 2851496966.0,
+    "tags": [
+      "DWF",
+      "Governance",
+      "IOT",
+      "Contracts",
+      "2023"
+    ]
+  },
+  "ANKRUSDT": {
+    "coin": "Ankr Network",
+    "ticker": "ANKR",
+    "tv": "ANKRUSDT.P",
+    "circ_supply": 10000457643.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "Cosmos",
+      "Eth 2",
+      "Ethereum",
+      "Gnosis",
+      "LSD",
+      "Polkadot",
+      "Polygon"
+    ]
+  },
+  "ANTUSDT": {
+    "coin": "Aragon",
+    "ticker": "ANT",
+    "tv": "ANTUSDT.P",
+    "circ_supply": 40125285.0,
+    "tags": [
+      "Cosmos",
+      "Governance"
+    ]
+  },
+  "APEUSDT": {
+    "coin": "ApeCoin",
+    "ticker": "APE",
+    "tv": "APEUSDT.P",
+    "circ_supply": 368553774.0,
+    "tags": [
+      "Ethereum",
+      "GameFi",
+      "NFT",
+      "Polygon"
+    ]
+  },
+  "API3USDT": {
+    "coin": "API3",
+    "ticker": "API3",
+    "tv": "API3USDT.P",
+    "circ_supply": 96959840.0,
+    "tags": [
+      "Near",
+      "Oracle",
+      "Polygon"
+    ]
+  },
+  "APTUSDT": {
+    "coin": "Aptos",
+    "ticker": "APT",
+    "tv": "APTUSDT.P",
+    "circ_supply": 274565160.0,
+    "tags": [
+      "Aptos",
+      "FTX",
+      "Contracts"
+    ]
+  },
+  "ARBUSDT": {
+    "coin": "Arbitrum",
+    "ticker": "ARB",
+    "tv": "ARBUSDT.P",
+    "circ_supply": 1273676611.0,
+    "tags": [
+      "Ethereum",
+      "L2",
+      "2023"
+    ]
+  },
+  "ARKMUSDT": {
+    "coin": "Arkham",
+    "ticker": "ARKM",
+    "tv": "ARKMUSDT.P",
+    "circ_supply": 170459735.0,
+    "tags": [
+      "Binance Launchpad",
+      "2023"
+    ]
+  },
+  "ARKUSDT": {
+    "coin": "ARK",
+    "ticker": "ARK",
+    "tv": "ARKUSDT.P",
+    "circ_supply": 176000000,
+    "tags": [
+      "2023"
+    ]
+  },
+  "ARPAUSDT": {
+    "coin": "ARPA",
+    "ticker": "ARPA",
+    "tv": "ARPAUSDT.P",
+    "circ_supply": 981885514.0,
+    "tags": [
+      "DWF",
+      "Polygon"
+    ]
+  },
+  "ARUSDT": {
+    "coin": "Arweave",
+    "ticker": "AR",
+    "tv": "ARUSDT.P",
+    "circ_supply": 65751716.0,
+    "tags": [
+      "DePIN",
+      "Storage"
+    ]
+  },
+  "ASTRUSDT": {
+    "coin": "Astar",
+    "ticker": "ASTR",
+    "tv": "ASTRUSDT.P",
+    "circ_supply": 5356722063.0,
+    "tags": [
+      "Ethereum",
+      "Polkadot",
+      "Contracts",
+      "2023"
+    ]
+  },
+  "ATAUSDT": {
+    "coin": "Automata",
+    "ticker": "ATA",
+    "tv": "ATAUSDT.P",
+    "circ_supply": 434524971.0,
+    "tags": [
+      "MEV"
+    ]
+  },
+  "ATOMUSDT": {
+    "coin": "Cosmos Hub",
+    "ticker": "ATOM",
+    "tv": "ATOMUSDT.P",
+    "circ_supply": 292765729.0,
+    "tags": [
+      "SEC",
+      "BNB",
+      "Canto",
+      "Cosmos",
+      "L1"
+    ]
+  },
+  "AUDIOUSDT": {
+    "coin": "Audius",
+    "ticker": "AUDIO",
+    "tv": "AUDIOUSDT.P",
+    "circ_supply": 1170034874.0,
+    "tags": [
+      "Ethereum",
+      "Music",
+      "NFT",
+      "Solana"
+    ]
+  },
+  "AVAXUSDT": {
+    "coin": "Avalanche",
+    "ticker": "AVAX",
+    "tv": "AVAXUSDT.P",
+    "circ_supply": 355994491.0,
+    "tags": [
+      "Avalanche",
+      "L1",
+      "Contracts"
+    ]
+  },
+  "AXSUSDT": {
+    "coin": "Axie Infinity",
+    "ticker": "AXS",
+    "tv": "AXSUSDT.P",
+    "circ_supply": 132413627.0,
+    "tags": [
+      "SEC",
+      "BNB",
+      "Binance Launchpad",
+      "Ethereum",
+      "GameFi",
+      "Metaverse",
+      "NFT",
+      "Play To Earn"
+    ]
+  },
+  "BADGERUSDT": {
+    "coin": "Badger",
+    "ticker": "BADGER",
+    "tv": "BADGERUSDT.P",
+    "circ_supply": 19997766.0,
+    "tags": [
+      "Gnosis",
+      "Governance",
+      "Polygon",
+      "Yield",
+      "2023"
+    ]
+  },
+  "BAKEUSDT": {
+    "coin": "BakerySwap",
+    "ticker": "BAKE",
+    "tv": "BAKEUSDT.P",
+    "circ_supply": 289191640.0,
+    "tags": [
+      "BNB",
+      "NFT"
+    ]
+  },
+  "BALUSDT": {
+    "coin": "Balancer",
+    "ticker": "BAL",
+    "tv": "BALUSDT.P",
+    "circ_supply": 44105383.0,
+    "tags": [
+      "AMM",
+      "Avalanche",
+      "Base",
+      "DEX",
+      "Exchange",
+      "Gnosis",
+      "Governance",
+      "Near",
+      "Polygon",
+      "Yield"
+    ]
+  },
+  "BANDUSDT": {
+    "coin": "Band Protocol",
+    "ticker": "BAND",
+    "tv": "BANDUSDT.P",
+    "circ_supply": 135913685.0,
+    "tags": [
+      "Binance Launchpad",
+      "Cosmos",
+      "Near",
+      "Oracle",
+      "Polygon"
+    ]
+  },
+  "BATUSDT": {
+    "coin": "Basic Attention",
+    "ticker": "BAT",
+    "tv": "BATUSDT.P",
+    "circ_supply": 1493956688.0,
+    "tags": [
+      "Avalanche",
+      "Ethereum",
+      "Polygon"
+    ]
+  },
+  "BCHUSDT": {
+    "coin": "Bitcoin Cash",
+    "ticker": "BCH",
+    "tv": "BCHUSDT.P",
+    "circ_supply": 19541052.0,
+    "tags": [
+      "L1",
+      "Contracts"
+    ]
+  },
+  "BELUSDT": {
+    "coin": "Bella Protocol",
+    "ticker": "BEL",
+    "tv": "BELUSDT.P",
+    "circ_supply": 59261522.0,
+    "tags": []
+  },
+  "BICOUSDT": {
+    "coin": "Biconomy",
+    "ticker": "BICO",
+    "tv": "BICOUSDT.P",
+    "circ_supply":676000000,
+    "tags": [
+      "BNB",
+      "2023"
+    ]
+  },
+  "BIGTIMEUSDT": {
+    "coin": "Big Time",
+    "ticker": "BIGTIME",
+    "tv": "BIGTIMEUSDT.P",
+    "circ_supply": 152695684.0,
+    "tags": [
+      "GameFi",
+      "2023"
+    ]
+  },
+  "BLURUSDT": {
+    "coin": "Blur",
+    "ticker": "BLUR",
+    "tv": "BLURUSDT.P",
+    "circ_supply": 1077412998.0,
+    "tags": [
+      "Ethereum",
+      "FTX",
+      "NFT",
+      "Marketplace",
+      "2023"
+    ]
+  },
+  "BLZUSDT": {
+    "coin": "Bluzelle",
+    "ticker": "BLZ",
+    "tv": "BLZUSDT.P",
+    "circ_supply": 426196632.0,
+    "tags": [
+      "BNB",
+      "Cosmos",
+      "GameFi",
+      "Polkadot",
+      "Storage"
+    ]
+  },
+  "BNBUSDT": {
+    "coin": "BNB",
+    "ticker": "BNB",
+    "tv": "BNBUSDT.P",
+    "circ_supply": 153836411.0,
+    "tags": [
+      "SEC",
+      "Avalanche",
+      "BNB",
+      "CEX",
+      "Ethereum",
+      "Exchange",
+      "FTX",
+      "L1",
+      "Polygon",
+      "Contracts"
+    ]
+  },
+  "BNTUSDT": {
+    "coin": "Bancor Network",
+    "ticker": "BNT",
+    "tv": "BNTUSDT.P",
+    "circ_supply": 135835535.0,
+    "tags": [
+      "AMM",
+      "DEX",
+      "Exchange",
+      "2023"
+    ]
+  },
+  "BNXUSDT": {
+    "coin": "BinaryX",
+    "ticker": "BNX",
+    "tv": "BNXUSDT.P",
+    "circ_supply":250000000,
+    "tags": [
+      "BNB",
+      "2023"
+    ]
+  },
+  "BONDUSDT": {
+    "coin": "BarnBridge",
+    "ticker": "BOND",
+    "tv": "BONDUSDT.P",
+    "circ_supply": 9523318.0,
+    "tags": [
+      "Derivatives",
+      "Governance",
+      "Olympus",
+      "Yield",
+      "2023"
+    ]
+  },
+  "BSVUSDT": {
+    "coin": "$BSV",
+    "ticker": "BSV",
+    "tv": "BSVUSDT.P",
+    "circ_supply": 21219968.0,
+    "tags": [
+      "BRC-20",
+      "2023"
+    ]
+  },
+  "BTCUSDT": {
+    "coin": "Bitcoin",
+    "ticker": "BTC",
+    "tv": "BTCUSDT.P",
+    "circ_supply": 19542401.0,
+    "tags": [
+      "FTX",
+      "L1"
+    ]
+  },
+  "C98USDT": {
+    "coin": "Coin98",
+    "ticker": "C98",
+    "tv": "C98USDT.P",
+    "circ_supply": 631958154.0,
+    "tags": [
+      "BNB",
+      "Binance Launchpad",
+      "DWF",
+      "Gnosis",
+      "Near",
+      "Polygon",
+      "Solana",
+      "Wallets"
+    ]
+  },
+  "CAKEUSDT": {
+    "coin": "PancakeSwap",
+    "ticker": "CAKE",
+    "tv": "CAKEUSDT.P",
+    "circ_supply": 228781582.0,
+    "tags": [
+      "Aptos",
+      "AMM",
+      "BNB",
+      "DEX",
+      "Ethereum",
+      "Exchange",
+      "Governance",
+      "Yield",
+      "2023"
+    ]
+  },
+  "CELOUSDT": {
+    "coin": "Celo",
+    "ticker": "CELO",
+    "tv": "CELOUSDT.P",
+    "circ_supply":518000000,
+    "tags": [
+      "DWF"
+    ]
+  },
+  "CELRUSDT": {
+    "coin": "Celer Network",
+    "ticker": "CELR",
+    "tv": "CELRUSDT.P",
+    "circ_supply": 5642622820.0,
+    "tags": [
+      "Aptos",
+      "Binance Launchpad",
+      "Bridge"
+    ]
+  },
+  "CFXUSDT": {
+    "coin": "Conflux",
+    "ticker": "CFX",
+    "tv": "CFXUSDT.P",
+    "circ_supply":3500000000,
+    "tags": [
+      "DWF",
+      "2023"
+    ]
+  },
+  "CHRUSDT": {
+    "coin": "Chromia",
+    "ticker": "CHR",
+    "tv": "CHRUSDT.P",
+    "circ_supply": 583067836.0,
+    "tags": [
+      "BNB",
+      "Contracts"
+    ]
+  },
+  "CHZUSDT": {
+    "coin": "Chiliz",
+    "ticker": "CHZ",
+    "tv": "CHZUSDT.P",
+    "circ_supply": 6971913314.0,
+    "tags": [
+      "SEC",
+      "Ethereum",
+      "L1",
+      "NFT",
+      "Sports"
+    ]
+  },
+  "CKBUSDT": {
+    "coin": "Nervos Network",
+    "ticker": "CKB",
+    "tv": "CKBUSDT.P",
+    "circ_supply":33000000000,
+    "tags": [
+      "Nervos",
+      "2023"
+    ]
+  },
+  "COMBOUSDT": {
+    "coin": "COMBO",
+    "ticker": "COMBO",
+    "tv": "COMBOUSDT.P",
+    "circ_supply": 71058007.0,
+    "tags": [
+      "GameFi",
+      "NFT",
+      "2023"
+    ]
+  },
+  "COMPUSDT": {
+    "coin": "Compound",
+    "ticker": "COMP",
+    "tv": "COMPUSDT.P",
+    "circ_supply": 6876921.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "Ethereum",
+      "Governance",
+      "Lending",
+      "Polygon",
+      "Yield"
+    ]
+  },
+  "COTIUSDT": {
+    "coin": "COTI",
+    "ticker": "COTI",
+    "tv": "COTIUSDT.P",
+    "circ_supply": 1262283651.0,
+    "tags": [
+      "SEC",
+      "Contracts"
+    ]
+  },
+  "CRVUSDT": {
+    "coin": "Curve DAO",
+    "ticker": "CRV",
+    "tv": "CRVUSDT.P",
+    "circ_supply": 912975021.0,
+    "tags": [
+      "AMM",
+      "DEX",
+      "Ethereum",
+      "Exchange",
+      "Gnosis",
+      "Governance",
+      "Polygon",
+      "Yield",
+      "DWF"
+    ]
+  },
+  "CTKUSDT": {
+    "coin": "Shentu",
+    "ticker": "CTK",
+    "tv": "CTKUSDT.P",
+    "circ_supply": 100093984.0,
+    "tags": [
+      "Cosmos",
+      "Polygon"
+    ]
+  },
+  "CTSIUSDT": {
+    "coin": "Cartesi",
+    "ticker": "CTSI",
+    "tv": "CTSIUSDT.P",
+    "circ_supply": 763823565.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "Binance Launchpad",
+      "Governance",
+      "L2",
+      "Polygon",
+      "Contracts"
+    ]
+  },
+  "CVXUSDT": {
+    "coin": "Convex Finance",
+    "ticker": "CVX",
+    "tv": "CVXUSDT.P",
+    "circ_supply": 81933728.0,
+    "tags": [
+      "Ethereum",
+      "Metagovernance",
+      "Yield"
+    ]
+  },
+  "CYBERUSDT": {
+    "coin": "CyberConnect",
+    "ticker": "CYBER",
+    "tv": "CYBERUSDT.P",
+    "circ_supply": 10997148.0,
+    "tags": [
+      "BNB",
+      "MultiversX",
+      "2023"
+    ]
+  },
+  "DARUSDT": {
+    "coin": "Mines of Dalarnia",
+    "ticker": "DAR",
+    "tv": "DARUSDT.P",
+    "circ_supply":97000000,
+    "tags": [
+      "GameFi"
+    ]
+  },
+  "DASHUSDT": {
+    "coin": "Dash",
+    "ticker": "DASH",
+    "tv": "DASHUSDT.P",
+    "circ_supply": 11542729.0,
+    "tags": [
+      "SEC",
+      "Governance",
+      "Masternodes",
+      "Privacy"
+    ]
+  },
+  "DGBUSDT": {
+    "coin": "DigiByte",
+    "ticker": "DGB",
+    "tv": "DGBUSDT.P",
+    "circ_supply": 16676021092.0,
+    "tags": [
+      "IOT",
+      "Privacy",
+      "Contracts"
+    ]
+  },
+  "DOGEUSDT": {
+    "coin": "Dogecoin",
+    "ticker": "DOGE",
+    "tv": "DOGEUSDT.P",
+    "circ_supply": 141786865062.0,
+    "tags": [
+      "BNB",
+      "Dog",
+      "Elon",
+      "Meme"
+    ]
+  },
+  "DOTUSDT": {
+    "coin": "Polkadot",
+    "ticker": "DOT",
+    "tv": "DOTUSDT.P",
+    "circ_supply": 1296272725.0,
+    "tags": [
+      "Asset Backed",
+      "L1",
+      "Polkadot",
+      "Contracts"
+    ]
+  },
+  "DUSKUSDT": {
+    "coin": "Dusk",
+    "ticker": "DUSK",
+    "tv": "DUSKUSDT.P",
+    "circ_supply": 427490655.0,
+    "tags": [
+      "L1",
+      "Privacy",
+      "RWA",
+      "Contracts",
+      "ZK"
+    ]
+  },
+  "DYDXUSDT": {
+    "coin": "dYdX",
+    "ticker": "DYDX",
+    "tv": "DYDXUSDT.P",
+    "circ_supply": 179414779.0,
+    "tags": [
+      "DEX",
+      "Derivatives",
+      "Ethereum",
+      "Exchange",
+      "Perpetuals"
+    ]
+  },
+  "EDUUSDT": {
+    "coin": "Open Campus",
+    "ticker": "EDU",
+    "tv": "EDUUSDT.P",
+    "circ_supply": 207726984.0,
+    "tags": [
+      "BNB",
+      "Binance Launchpad",
+      "Polygon",
+      "2023"
+    ]
+  },
+  "EGLDUSDT": {
+    "coin": "MultiversX",
+    "ticker": "EGLD",
+    "tv": "EGLDUSDT.P",
+    "circ_supply": 26223586.0,
+    "tags": [
+      "Binance Launchpad",
+      "DWF",
+      "L1",
+      "MultiversX",
+      "Contracts"
+    ]
+  },
+  "ENJUSDT": {
+    "coin": "Enjin Coin",
+    "ticker": "ENJ",
+    "tv": "ENJUSDT.P",
+    "circ_supply": 997960619.0,
+    "tags": [
+      "Ethereum",
+      "GameFi",
+      "Metaverse",
+      "NFT"
+    ]
+  },
+  "ENSUSDT": {
+    "coin": "Ethereum Name Service",
+    "ticker": "ENS",
+    "tv": "ENSUSDT.P",
+    "circ_supply": 25826210.0,
+    "tags": [
+      "Ethereum",
+      "Governance",
+      "NFT"
+    ]
+  },
+  "EOSUSDT": {
+    "coin": "EOS",
+    "ticker": "EOS",
+    "tv": "EOSUSDT.P",
+    "circ_supply": 1128306274.0,
+    "tags": [
+      "DWF",
+      "Contracts"
+    ]
+  },
+  "ETCUSDT": {
+    "coin": "Ethereum Classic",
+    "ticker": "ETC",
+    "tv": "ETCUSDT.P",
+    "circ_supply": 143135979.0,
+    "tags": [
+      "Ethereum Beta",
+      "Contracts"
+    ]
+  },
+  "ETHUSDT": {
+    "coin": "Ethereum",
+    "ticker": "ETH",
+    "tv": "ETHUSDT.P",
+    "circ_supply": 120249068.0,
+    "tags": [
+      "Ethereum",
+      "FTX",
+      "L1",
+      "Contracts"
+    ]
+  },
+  "ETHWUSDT": {
+    "coin": "EthereumPoW",
+    "ticker": "ETHW",
+    "tv": "ETHWUSDT.P",
+    "circ_supply": 107818943.0,
+    "tags": [
+      "Ethereum Beta",
+      "Ethereum POW",
+      "2023"
+    ]
+  },
+  "FETUSDT": {
+    "coin": "Fetch.ai",
+    "ticker": "FET",
+    "tv": "FETUSDT.P",
+    "circ_supply": 1041998464.0,
+    "tags": [
+      "AI",
+      "BNB",
+      "Binance Launchpad",
+      "Cosmos",
+      "DWF",
+      "Ethereum",
+      "NFT",
+      "2023"
+    ]
+  },
+  "FILUSDT": {
+    "coin": "Filecoin",
+    "ticker": "FIL",
+    "tv": "FILUSDT.P",
+    "circ_supply": 471005401.0,
+    "tags": [
+      "SEC",
+      "DePIN",
+      "Storage"
+    ]
+  },
+  "FLMUSDT": {
+    "coin": "Flamingo Finance",
+    "ticker": "FLM",
+    "tv": "FLMUSDT.P",
+    "circ_supply": 533036651.0,
+    "tags": [
+      "DEX",
+      "Exchange",
+      "Yield"
+    ]
+  },
+  "FLOWUSDT": {
+    "coin": "Flow",
+    "ticker": "FLOW",
+    "tv": "FLOWUSDT.P",
+    "circ_supply": 1473123941.0,
+    "tags": [
+      "SEC",
+      "Canto",
+      "L1",
+      "NFT",
+      "Contracts",
+      "Sports"
+    ]
+  },
+  "FRONTUSDT": {
+    "coin": "Frontier",
+    "ticker": "FRONT",
+    "tv": "FRONTUSDT.P",
+    "circ_supply":87456250,
+    "tags": [
+      "DWF",
+      "2023"
+    ]
+  },
+  "FTMUSDT": {
+    "coin": "Fantom",
+    "ticker": "FTM",
+    "tv": "FTMUSDT.P",
+    "circ_supply": 2801777911.0,
+    "tags": [
+      "BNB",
+      "Ethereum",
+      "L1",
+      "Contracts"
+    ]
+  },
+  "FXSUSDT": {
+    "coin": "Frax Share",
+    "ticker": "FXS",
+    "tv": "FXSUSDT.P",
+    "circ_supply": 75143538.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "Ethereum",
+      "LSD",
+      "Olympus",
+      "Polygon",
+      "Seigniorage",
+      "Solana",
+      "2023"
+    ]
+  },
+  "GALAUSDT": {
+    "coin": "GALA",
+    "ticker": "GALA",
+    "tv": "GALAUSDT.P",
+    "circ_supply": 27824628957.0,
+    "tags": [
+      "BNB",
+      "Ethereum",
+      "GameFi",
+      "NFT",
+      "DWF",
+      "Play To Earn",
+      "Polygon"
+    ]
+  },
+  "GALUSDT": {
+    "coin": "Galxe",
+    "ticker": "GAL",
+    "tv": "GALUSDT.P",
+    "circ_supply": 95481642.0,
+    "tags": [
+      "BNB",
+      "DWF",
+      "Fan Token",
+      "NFT",
+      "SocialFi",
+      "Sports",
+      "ZK"
+    ]
+  },
+  "GASUSDT": {
+    "coin": "Gas",
+    "ticker": "GAS",
+    "tv": "GASUSDT.P",
+    "circ_supply":14000000,
+    "tags": [
+      "Neo",
+      "2023"
+    ]
+  },
+  "GLMRUSDT": {
+    "coin": "Moonbeam",
+    "ticker": "GLMR",
+    "tv": "GLMRUSDT.P",
+    "circ_supply": 787357923.0,
+    "tags": [
+      "Polkadot",
+      "DWF",
+      "2023"
+    ]
+  },
+  "GMTUSDT": {
+    "coin": "STEPN",
+    "ticker": "GMT",
+    "tv": "GMTUSDT.P",
+    "circ_supply": 1383736679.0,
+    "tags": [
+      "BNB",
+      "Binance Launchpad",
+      "Ethereum",
+      "GameFi",
+      "Move To Earn",
+      "NFT",
+      "Play To Earn",
+      "Polygon",
+      "Solana"
+    ]
+  },
+  "GMXUSDT": {
+    "coin": "GMX",
+    "ticker": "GMX",
+    "tv": "GMXUSDT.P",
+    "circ_supply": 9199259.0,
+    "tags": [
+      "Avalanche",
+      "Derivatives",
+      "Perpetuals",
+      "2023"
+    ]
+  },
+  "GRTUSDT": {
+    "coin": "The Graph",
+    "ticker": "GRT",
+    "tv": "GRTUSDT.P",
+    "circ_supply": 9278070597.0,
+    "tags": [
+      "Analytics",
+      "Avalanche",
+      "BNB",
+      "Ethereum",
+      "Gnosis",
+      "Near",
+      "Polygon",
+      "Solana"
+    ]
+  },
+  "GTCUSDT": {
+    "coin": "Gitcoin",
+    "ticker": "GTC",
+    "tv": "GTCUSDT.P",
+    "circ_supply":60000000,
+    "tags": [
+      "Ethereum"
+    ]
+  },
+  "HBARUSDT": {
+    "coin": "Hedera",
+    "ticker": "HBAR",
+    "tv": "HBARUSDT.P",
+    "circ_supply": 33534998574.0,
+    "tags": [
+      "L1",
+      "Contracts"
+    ]
+  },
+  "HFTUSDT": {
+    "coin": "Hashflow",
+    "ticker": "HFT",
+    "tv": "HFTUSDT.P",
+    "circ_supply": 175365244.0,
+    "tags": [
+      "Avalanche",
+      "DEX",
+      "Exchange",
+      "MEV",
+      "Polygon",
+      "2023"
+    ]
+  },
+  "HIFIUSDT": {
+    "coin": "Hifi Finance",
+    "ticker": "HIFI",
+    "tv": "HIFIUSDT.P",
+    "circ_supply":107306438,
+    "tags": [
+      "Ethereum",
+      "2023"
+    ]
+  },
+  "HIGHUSDT": {
+    "coin": "Highstreet",
+    "ticker": "HIGH",
+    "tv": "HIGHUSDT.P",
+    "circ_supply":100000000,
+    "tags": [
+      "DWF",
+      "2023"
+    ]
+  },
+  "HOOKUSDT": {
+    "coin": "Hooked Protocol",
+    "ticker": "HOOK",
+    "tv": "HOOKUSDT.P",
+    "circ_supply": 95941731.0,
+    "tags": [
+      "BNB",
+      "Binance Launchpad",
+      "GameFi",
+      "Metaverse",
+      "2023"
+    ]
+  },
+  "HOTUSDT": {
+    "coin": "Holo",
+    "ticker": "HOT",
+    "tv": "HOTUSDT.P",
+    "circ_supply": 177331306677.0,
+    "tags": [
+      "DePIN",
+      "Ethereum",
+      "Contracts",
+      "Storage"
+    ]
+  },
+  "ICPUSDT": {
+    "coin": "Internet Computer",
+    "ticker": "ICP",
+    "tv": "ICPUSDT.P",
+    "circ_supply": 449862666.0,
+    "tags": [
+      "SEC",
+      "GameFi",
+      "Governance",
+      "Internet Computer",
+      "Metaverse",
+      "NFT",
+      "Contracts",
+      "Storage"
+    ]
+  },
+  "ICXUSDT": {
+    "coin": "ICON",
+    "ticker": "ICX",
+    "tv": "ICXUSDT.P",
+    "circ_supply": 972019054.0,
+    "tags": [
+      "Near",
+      "Contracts"
+    ]
+  },
+  "IDEXUSDT": {
+    "coin": "IDEX",
+    "ticker": "IDEX",
+    "tv": "IDEXUSDT.P",
+    "circ_supply": 790707929.0,
+    "tags": [
+      "DEX",
+      "Exchange",
+      "Polygon",
+      "2023"
+    ]
+  },
+  "IDUSDT": {
+    "coin": "SPACE ID",
+    "ticker": "ID",
+    "tv": "IDUSDT.P",
+    "circ_supply": 285910988.0,
+    "tags": [
+      "BNB",
+      "Binance Launchpad",
+      "ID",
+      "NFT",
+      "Marketplace",
+      "Wallets",
+      "ZK",
+      "2023"
+    ]
+  },
+  "ILVUSDT": {
+    "coin": "Illuvium",
+    "ticker": "ILV",
+    "tv": "ILVUSDT.P",
+    "circ_supply": 6027681.0,
+    "tags": [
+      "Ethereum",
+      "GameFi",
+      "Metaverse",
+      "NFT",
+      "Play To Earn",
+      "2023"
+    ]
+  },
+  "IMXUSDT": {
+    "coin": "Immutable",
+    "ticker": "IMX",
+    "tv": "IMXUSDT.P",
+    "circ_supply": 1254271660.0,
+    "tags": [
+      "Ethereum",
+      "GameFi",
+      "L2",
+      "NFT",
+      "Play To Earn",
+      "Contracts",
+      "ZK"
+    ]
+  },
+  "INJUSDT": {
+    "coin": "Injective",
+    "ticker": "INJ",
+    "tv": "INJUSDT.P",
+    "circ_supply": 83834587.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "Binance Launchpad",
+      "Cosmos",
+      "Ethereum",
+      "L1",
+      "Polygon",
+      "Contracts"
+    ]
+  },
+  "IOSTUSDT": {
+    "coin": "IOST",
+    "ticker": "IOST",
+    "tv": "IOSTUSDT.P",
+    "circ_supply":19000000000,
+    "tags": []
+  },
+  "IOTAUSDT": {
+    "coin": "IOTA",
+    "ticker": "IOTA",
+    "tv": "IOTAUSDT.P",
+    "circ_supply": 2998364491.0,
+    "tags": [
+      "DWF",
+      "IOT",
+      "Contracts"
+    ]
+  },
+  "IOTXUSDT": {
+    "coin": "IoTeX",
+    "ticker": "IOTX",
+    "tv": "IOTXUSDT.P",
+    "circ_supply": 9434129759.0,
+    "tags": [
+      "BNB",
+      "DePIN",
+      "Ethereum",
+      "IOT",
+      "Polygon"
+    ]
+  },
+  "JASMYUSDT": {
+    "coin": "JasmyCoin",
+    "ticker": "JASMY",
+    "tv": "JASMYUSDT.P",
+    "circ_supply": 48463929719.0,
+    "tags": [
+      "DWF",
+      "Ethereum",
+      "IOT"
+    ]
+  },
+  "JOEUSDT": {
+    "coin": "Joe Coin",
+    "ticker": "JOE",
+    "tv": "JOEUSDT.P",
+    "circ_supply": 1021581347.0,
+    "tags": [
+      "AMM",
+      "Avalanche",
+      "BNB",
+      "DEX",
+      "Meme",
+      "Yield",
+      "2023"
+    ]
+  },
+  "KAVAUSDT": {
+    "coin": "Kava",
+    "ticker": "KAVA",
+    "tv": "KAVAUSDT.P",
+    "circ_supply": 931170901.0,
+    "tags": [
+      "BNB",
+      "Binance Launchpad",
+      "Cosmos",
+      "DWF",
+      "DeFi",
+      "L1"
+    ]
+  },
+  "KEYUSDT": {
+    "coin": "SelfKey",
+    "ticker": "KEY",
+    "tv": "KEYUSDT.P",
+    "circ_supply": 6001321288.0,
+    "tags": [
+      "AI",
+      "2023"
+    ]
+  },
+  "KLAYUSDT": {
+    "coin": "Klaytn",
+    "ticker": "KLAY",
+    "tv": "KLAYUSDT.P",
+    "circ_supply": 3241595106.0,
+    "tags": [
+      "L1"
+    ]
+  },
+  "KNCUSDT": {
+    "coin": "Kyber Network Crystal",
+    "ticker": "KNC",
+    "tv": "KNCUSDT.P",
+    "circ_supply": 151467682.0,
+    "tags": [
+      "AMM",
+      "Avalanche",
+      "BNB",
+      "Linea",
+      "Polygon"
+    ]
+  },
+  "KSMUSDT": {
+    "coin": "Kusama",
+    "ticker": "KSM",
+    "tv": "KSMUSDT.P",
+    "circ_supply": 9003446.0,
+    "tags": [
+      "Polkadot"
+    ]
+  },
+  "LDOUSDT": {
+    "coin": "Lido DAO",
+    "ticker": "LDO",
+    "tv": "LDOUSDT.P",
+    "circ_supply": 892431473.0,
+    "tags": [
+      "Ethereum Beta",
+      "Ethereum",
+      "LSD",
+      "Polygon"
+    ]
+  },
+  "LEVERUSDT": {
+    "coin": "LeverFi",
+    "ticker": "LEVER",
+    "tv": "LEVERUSDT.P",
+    "circ_supply":28000000000,
+    "tags": [
+      "DWF",
+      "2023"
+    ]
+  },
+  "LINAUSDT": {
+    "coin": "Linear",
+    "ticker": "LINA",
+    "tv": "LINAUSDT.P",
+    "circ_supply": 5779356846.0,
+    "tags": [
+      "BNB",
+      "Binance Launchpad",
+      "DEX",
+      "Exchange",
+      "Polkadot",
+      "Yield"
+    ]
+  },
+  "LINKUSDT": {
+    "coin": "Chainlink",
+    "ticker": "LINK",
+    "tv": "LINKUSDT.P",
+    "circ_supply": 559465312.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "Ethereum",
+      "Gnosis",
+      "Near",
+      "Oracle",
+      "Polkadot",
+      "Polygon",
+      "Contracts",
+      "Solana"
+    ]
+  },
+  "LITUSDT": {
+    "coin": "Litentry",
+    "ticker": "LIT",
+    "tv": "LITUSDT.P",
+    "circ_supply": 46978912.0,
+    "tags": [
+      "Polkadot"
+    ]
+  },
+  "LOOMUSDT": {
+    "coin": "Loom Network (NEW)",
+    "ticker": "LOOM",
+    "tv": "LOOMUSDT.P",
+    "circ_supply":1000000000,
+    "tags": [
+      "Cosmos",
+      "2023"
+    ]
+  },
+  "LPTUSDT": {
+    "coin": "Livepeer",
+    "ticker": "LPT",
+    "tv": "LPTUSDT.P",
+    "circ_supply": 29557104.0,
+    "tags": [
+      "DePIN"
+    ]
+  },
+  "LQTYUSDT": {
+    "coin": "Liquity",
+    "ticker": "LQTY",
+    "tv": "LQTYUSDT.P",
+    "circ_supply": 94147790.0,
+    "tags": [
+      "Lending",
+      "2023"
+    ]
+  },
+  "LRCUSDT": {
+    "coin": "Loopring",
+    "ticker": "LRC",
+    "tv": "LRCUSDT.P",
+    "circ_supply": 1245422675.0,
+    "tags": [
+      "DEX",
+      "Ethereum",
+      "Exchange",
+      "L2",
+      "ZK"
+    ]
+  },
+  "LTCUSDT": {
+    "coin": "Litecoin",
+    "ticker": "LTC",
+    "tv": "LTCUSDT.P",
+    "circ_supply":72875000,
+    "tags": [
+      "Asset Backed"
+    ]
+  },
+  "MAGICUSDT": {
+    "coin": "Magic",
+    "ticker": "MAGIC",
+    "tv": "MAGICUSDT.P",
+    "circ_supply": 241696656.0,
+    "tags": [
+      "GameFi",
+      "Metaverse",
+      "NFT",
+      "2023"
+    ]
+  },
+  "MANAUSDT": {
+    "coin": "Decentraland",
+    "ticker": "MANA",
+    "tv": "MANAUSDT.P",
+    "circ_supply": 1847109380.0,
+    "tags": [
+      "SEC",
+      "BNB",
+      "Ethereum",
+      "Metaverse",
+      "NFT",
+      "Play To Earn",
+      "Polygon"
+    ]
+  },
+  "MASKUSDT": {
+    "coin": "Mask Network",
+    "ticker": "MASK",
+    "tv": "MASKUSDT.P",
+    "circ_supply": 82229804.0,
+    "tags": [
+      "BNB",
+      "Ethereum",
+      "Governance",
+      "Polygon",
+      "DWF",
+      "Privacy"
+    ]
+  },
+  "MATICUSDT": {
+    "coin": "Polygon",
+    "ticker": "MATIC",
+    "tv": "MATICUSDT.P",
+    "circ_supply": 9253891288.0,
+    "tags": [
+      "SEC",
+      "BNB",
+      "Binance Launchpad",
+      "Ethereum",
+      "FTX",
+      "L2",
+      "Polygon",
+      "Contracts",
+      "ZK"
+    ]
+  },
+  "MAVUSDT": {
+    "coin": "Maverick Protocol",
+    "ticker": "MAV",
+    "tv": "MAVUSDT.P",
+    "circ_supply": 249955979.0,
+    "tags": [
+      "BNB",
+      "2023"
+    ]
+  },
+  "MBLUSDT": {
+    "coin": "MovieBloc",
+    "ticker": "MBL",
+    "tv": "MBLUSDT.P",
+    "circ_supply":17000000000,
+    "tags": [
+      "DWF",
+      "2023"
+    ]
+  },
+  "MDTUSDT": {
+    "coin": "Measurable Data",
+    "ticker": "MDT",
+    "tv": "MDTUSDT.P",
+    "circ_supply":606000000,
+    "tags": [
+      "DWF",
+      "Ethereum",
+      "2023"
+    ]
+  },
+  "MEMEUSDT": {
+    "coin": "Memecoin",
+    "ticker": "MEME",
+    "tv": "MEMEUSDT.P",
+    "circ_supply": 7348903061.0,
+    "tags": [
+      "Cosmos",
+      "Ethereum",
+      "Masternodes",
+      "Meme",
+      "NFT",
+      "2023"
+    ]
+  },
+  "MINAUSDT": {
+    "coin": "Mina Protocol",
+    "ticker": "MINA",
+    "tv": "MINAUSDT.P",
+    "circ_supply": 1001782135.0,
+    "tags": [
+      "FTX",
+      "ZK",
+      "2023"
+    ]
+  },
+  "MKRUSDT": {
+    "coin": "Maker",
+    "ticker": "MKR",
+    "tv": "MKRUSDT.P",
+    "circ_supply": 900119.0,
+    "tags": [
+      "Avalanche",
+      "Ethereum",
+      "Governance",
+      "Lending",
+      "Near",
+      "Polygon"
+    ]
+  },
+  "MTLUSDT": {
+    "coin": "Metal DAO",
+    "ticker": "MTL",
+    "tv": "MTLUSDT.P",
+    "circ_supply":64633000,
+    "tags": []
+  },
+  "NEARUSDT": {
+    "coin": "Near",
+    "ticker": "NEAR",
+    "tv": "NEARUSDT.P",
+    "circ_supply": 998998915.0,
+    "tags": [
+      "SEC",
+      "FTX",
+      "L1",
+      "Near",
+      "Contracts"
+    ]
+  },
+  "NEOUSDT": {
+    "coin": "NEO",
+    "ticker": "NEO",
+    "tv": "NEOUSDT.P",
+    "circ_supply": 70600901.0,
+    "tags": [
+      "Contracts"
+    ]
+  },
+  "NKNUSDT": {
+    "coin": "NKN",
+    "ticker": "NKN",
+    "tv": "NKNUSDT.P",
+    "circ_supply":650000000,
+    "tags": []
+  },
+  "NMRUSDT": {
+    "coin": "Numeraire",
+    "ticker": "NMR",
+    "tv": "NMRUSDT.P",
+    "circ_supply": 6259926.0,
+    "tags": [
+      "AI",
+      "2023"
+    ]
+  },
+  "NTRNUSDT": {
+    "coin": "Neutron Coin",
+    "ticker": "NTRN",
+    "tv": "NTRNUSDT.P",
+    "circ_supply": 49204224.0,
+    "tags": [
+      "Masternodes",
+      "2023"
+    ]
+  },
+  "OCEANUSDT": {
+    "coin": "Ocean Protocol",
+    "ticker": "OCEAN",
+    "tv": "OCEANUSDT.P",
+    "circ_supply": 434756953.0,
+    "tags": [
+      "AI",
+      "DePIN",
+      "Polkadot",
+      "Polygon",
+      "Storage"
+    ]
+  },
+  "OGNUSDT": {
+    "coin": "Origin Protocol",
+    "ticker": "OGN",
+    "tv": "OGNUSDT.P",
+    "circ_supply": 502486243.0,
+    "tags": [
+      "NFT"
+    ]
+  },
+  "OMGUSDT": {
+    "coin": "OMG Network",
+    "ticker": "OMG",
+    "tv": "OMGUSDT.P",
+    "circ_supply": 140476039.0,
+    "tags": [
+      "SEC",
+      "Contracts"
+    ]
+  },
+  "ONEUSDT": {
+    "coin": "Harmony",
+    "ticker": "ONE",
+    "tv": "ONEUSDT.P",
+    "circ_supply": 12311007392.0,
+    "tags": [
+      "Binance Launchpad",
+      "CEX",
+      "Contracts"
+    ]
+  },
+  "ONTUSDT": {
+    "coin": "Ontology",
+    "ticker": "ONT",
+    "tv": "ONTUSDT.P",
+    "circ_supply": 896374549.0,
+    "tags": [
+      "BNB",
+      "Masternodes",
+      "Near",
+      "Polkadot",
+      "Contracts"
+    ]
+  },
+  "OPUSDT": {
+    "coin": "Optimism",
+    "ticker": "OP",
+    "tv": "OPUSDT.P",
+    "circ_supply": 879146918.0,
+    "tags": [
+      "L2"
+    ]
+  },
+  "ORBSUSDT": {
+    "coin": "Orbs",
+    "ticker": "ORBS",
+    "tv": "ORBSUSDT.P",
+    "circ_supply": 3220640771.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "DWF",
+      "Polygon",
+      "2023"
+    ]
+  },
+  "ORDIUSDT": {
+    "coin": "ORDI",
+    "ticker": "ORDI",
+    "tv": "ORDIUSDT.P",
+    "circ_supply": 20911004.0,
+    "tags": [
+      "BRC-20",
+      "2023"
+    ]
+  },
+  "OXTUSDT": {
+    "coin": "Orchid Protocol",
+    "ticker": "OXT",
+    "tv": "OXTUSDT.P",
+    "circ_supply": 589592749.0,
+    "tags": [
+      "DePIN",
+      "Gnosis",
+      "2023"
+    ]
+  },
+  "PENDLEUSDT": {
+    "coin": "Pendle",
+    "ticker": "PENDLE",
+    "tv": "PENDLEUSDT.P",
+    "circ_supply": 96510242.0,
+    "tags": [
+      "AMM",
+      "Avalanche",
+      "BNB",
+      "Derivatives",
+      "LSD",
+      "Olympus",
+      "RWA",
+      "2023"
+    ]
+  },
+  "PEOPLEUSDT": {
+    "coin": "ConstitutionDAO",
+    "ticker": "PEOPLE",
+    "tv": "PEOPLEUSDT.P",
+    "circ_supply":5000000000,
+    "tags": []
+  },
+  "PERPUSDT": {
+    "coin": "Perpetual Protocol",
+    "ticker": "PERP",
+    "tv": "PERPUSDT.P",
+    "circ_supply": 72778222.0,
+    "tags": [
+      "AMM",
+      "DEX",
+      "Derivatives",
+      "Exchange",
+      "Gnosis",
+      "Perpetuals",
+      "2023"
+    ]
+  },
+  "PHBUSDT": {
+    "coin": "Phoenix",
+    "ticker": "PHB",
+    "tv": "PHBUSDT.P",
+    "circ_supply": 45817498.0,
+    "tags": [
+      "AI",
+      "NFT",
+      "Oracle",
+      "2023"
+    ]
+  },
+  "POLYXUSDT": {
+    "coin": "Polymesh",
+    "ticker": "POLYX",
+    "tv": "POLYXUSDT.P",
+    "circ_supply": 876559066.0,
+    "tags": [
+      "Polkadot",
+      "RWA",
+      "2023"
+    ]
+  },
+  "POWRUSDT": {
+    "coin": "Power Ledger",
+    "ticker": "POWR",
+    "tv": "POWRUSDT.P",
+    "circ_supply": 429053072.0,
+    "tags": [
+      "SEC",
+      "2023"
+    ]
+  },
+  "QNTUSDT": {
+    "coin": "Quant",
+    "ticker": "QNT",
+    "tv": "QNTUSDT.P",
+    "circ_supply": 14536887.0,
+    "tags": [
+      "Ethereum"
+    ]
+  },
+  "QTUMUSDT": {
+    "coin": "Qtum",
+    "ticker": "QTUM",
+    "tv": "QTUMUSDT.P",
+    "circ_supply": 104733180.0,
+    "tags": [
+      "Contracts"
+    ]
+  },
+  "RADUSDT": {
+    "coin": "Radworks",
+    "ticker": "RAD",
+    "tv": "RADUSDT.P",
+    "circ_supply": 49665941.0,
+    "tags": [
+      "NFT",
+      "2023"
+    ]
+  },
+  "RDNTUSDT": {
+    "coin": "Radiant Capital",
+    "ticker": "RDNT",
+    "tv": "RDNTUSDT.P",
+    "circ_supply": 363553443.0,
+    "tags": [
+      "BNB",
+      "Lending",
+      "2023"
+    ]
+  },
+  "REEFUSDT": {
+    "coin": "Reef",
+    "ticker": "REEF",
+    "tv": "REEFUSDT.P",
+    "circ_supply":22000000000,
+    "tags": [
+      "Ethereum"
+    ]
+  },
+  "RENUSDT": {
+    "coin": "Ren",
+    "ticker": "REN",
+    "tv": "RENUSDT.P",
+    "circ_supply": 999611713.0,
+    "tags": [
+      "Exchange",
+      "Polkadot",
+      "Polygon",
+      "Solana"
+    ]
+  },
+  "RIFUSDT": {
+    "coin": "RSK Infrastructure Framework",
+    "ticker": "RIF",
+    "tv": "RIFUSDT.P",
+    "circ_supply":1000000000,
+    "tags": [
+      "2023"
+    ]
+  },
+  "RLCUSDT": {
+    "coin": "iExec RLC",
+    "ticker": "RLC",
+    "tv": "RLCUSDT.P",
+    "circ_supply": 72255445.0,
+    "tags": [
+      "AI",
+      "Oracle"
+    ]
+  },
+  "RNDRUSDT": {
+    "coin": "Render",
+    "ticker": "RNDR",
+    "tv": "RNDRUSDT.P",
+    "circ_supply": 370787396.0,
+    "tags": [
+      "AI",
+      "DePIN",
+      "Ethereum",
+      "Metaverse",
+      "NFT",
+      "Polygon",
+      "Solana",
+      "2023"
+    ]
+  },
+  "ROSEUSDT": {
+    "coin": "Oasis Network",
+    "ticker": "ROSE",
+    "tv": "ROSEUSDT.P",
+    "circ_supply": 5025440676.0,
+    "tags": [
+      "Contracts"
+    ]
+  },
+  "RSRUSDT": {
+    "coin": "Reserve Rights",
+    "ticker": "RSR",
+    "tv": "RSRUSDT.P",
+    "circ_supply": 50586854906.0,
+    "tags": [
+      "Base"
+    ]
+  },
+  "RUNEUSDT": {
+    "coin": "THORChain",
+    "ticker": "RUNE",
+    "tv": "RUNEUSDT.P",
+    "circ_supply": 301526328.0,
+    "tags": [
+      "BNB",
+      "Bridge",
+      "Cosmos",
+      "DEX",
+      "Exchange"
+    ]
+  },
+  "RVNUSDT": {
+    "coin": "Ravencoin",
+    "ticker": "RVN",
+    "tv": "RVNUSDT.P",
+    "circ_supply":12000000000,
+    "tags": []
+  },
+  "SANDUSDT": {
+    "coin": "The Sandbox",
+    "ticker": "SAND",
+    "tv": "SANDUSDT.P",
+    "circ_supply": 2098967428.0,
+    "tags": [
+      "SEC",
+      "Binance Launchpad",
+      "Ethereum",
+      "GameFi",
+      "Metaverse",
+      "NFT",
+      "Near",
+      "Play To Earn",
+      "Polygon",
+      "Tourism"
+    ]
+  },
+  "SEIUSDT": {
+    "coin": "Sei",
+    "ticker": "SEI",
+    "tv": "SEIUSDT.P",
+    "circ_supply":1800000000,
+    "tags": [
+      "Sei Network",
+      "2023"
+    ]
+  },
+  "SFPUSDT": {
+    "coin": "SafePal",
+    "ticker": "SFP",
+    "tv": "SFPUSDT.P",
+    "circ_supply": 420172781.0,
+    "tags": [
+      "BNB",
+      "Binance Launchpad",
+      "Ethereum",
+      "Polygon",
+      "Wallets"
+    ]
+  },
+  "SKLUSDT": {
+    "coin": "SKALE",
+    "ticker": "SKL",
+    "tv": "SKLUSDT.P",
+    "circ_supply": 5010515913.0,
+    "tags": [
+      "L2"
+    ]
+  },
+  "SLPUSDT": {
+    "coin": "Smooth Love Potion",
+    "ticker": "SLP",
+    "tv": "SLPUSDT.P",
+    "circ_supply": 41304825996.0,
+    "tags": [
+      "GameFi",
+      "NFT",
+      "Play To Earn",
+      "2023"
+    ]
+  },
+  "SNTUSDT": {
+    "coin": "Status",
+    "ticker": "SNT",
+    "tv": "SNTUSDT.P",
+    "circ_supply":3960483788,
+    "tags": [
+      "Ethereum",
+      "2023"
+    ]
+  },
+  "SNXUSDT": {
+    "coin": "Synthetix Network",
+    "ticker": "SNX",
+    "tv": "SNXUSDT.P",
+    "circ_supply": 326771268.0,
+    "tags": [
+      "Avalanche",
+      "DEX",
+      "Derivatives",
+      "Ethereum",
+      "Exchange",
+      "Governance",
+      "Polygon",
+      "Synthetic Issuer",
+      "Yield",
+      "DWF"
+    ]
+  },
+  "SOLUSDT": {
+    "coin": "Solana",
+    "ticker": "SOL",
+    "tv": "SOLUSDT.P",
+    "circ_supply": 422355800.0,
+    "tags": [
+      "SEC",
+      "FTX",
+      "L1",
+      "Contracts",
+      "Solana"
+    ]
+  },
+  "SPELLUSDT": {
+    "coin": "Spell",
+    "ticker": "SPELL",
+    "tv": "SPELLUSDT.P",
+    "circ_supply": 126612386871.0,
+    "tags": [
+      "Avalanche",
+      "Olympus",
+      "Yield"
+    ]
+  },
+  "SSVUSDT": {
+    "coin": "SSV Network",
+    "ticker": "SSV",
+    "tv": "SSVUSDT.P",
+    "circ_supply":7085672,
+    "tags": [
+      "Ethereum",
+      "2023"
+    ]
+  },
+  "STEEMUSDT": {
+    "coin": "Steem",
+    "ticker": "STEEM",
+    "tv": "STEEMUSDT.P",
+    "circ_supply": 448539234.0,
+    "tags": [
+      "SocialFi",
+      "2023"
+    ]
+  },
+  "STGUSDT": {
+    "coin": "Stargate Finance",
+    "ticker": "STG",
+    "tv": "STGUSDT.P",
+    "circ_supply": 204344460.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "Bridge",
+      "FTX",
+      "Polygon",
+      "Yield"
+    ]
+  },
+  "STMXUSDT": {
+    "coin": "StormX",
+    "ticker": "STMX",
+    "tv": "STMXUSDT.P",
+    "circ_supply":11000000000,
+    "tags": [
+      "Ethereum"
+    ]
+  },
+  "STORJUSDT": {
+    "coin": "Storj",
+    "ticker": "STORJ",
+    "tv": "STORJUSDT.P",
+    "circ_supply": 143550752.0,
+    "tags": [
+      "DePIN",
+      "Storage"
+    ]
+  },
+  "STPTUSDT": {
+    "coin": "STP",
+    "ticker": "STPT",
+    "tv": "STPTUSDT.P",
+    "circ_supply": 1941620541.0,
+    "tags": [
+      "Derivatives",
+      "Polkadot",
+      "Synthetic Issuer",
+      "2023"
+    ]
+  },
+  "STRAXUSDT": {
+    "coin": "Stratis",
+    "ticker": "STRAX",
+    "tv": "STRAXUSDT.P",
+    "circ_supply": 155195630.0,
+    "tags": [
+      "Contracts",
+      "2023"
+    ]
+  },
+  "STXUSDT": {
+    "coin": "Stacks",
+    "ticker": "STX",
+    "tv": "STXUSDT.P",
+    "circ_supply": 1420367807.0,
+    "tags": [
+      "Contracts",
+      "2023"
+    ]
+  },
+  "SUIUSDT": {
+    "coin": "Sui",
+    "ticker": "SUI",
+    "tv": "SUIUSDT.P",
+    "circ_supply": 965762823.0,
+    "tags": [
+      "L1",
+      "Contracts",
+      "2023"
+    ]
+  },
+  "SUSHIUSDT": {
+    "coin": "Sushi",
+    "ticker": "SUSHI",
+    "tv": "SUSHIUSDT.P",
+    "circ_supply": 192728786.0,
+    "tags": [
+      "AMM",
+      "Avalanche",
+      "BNB",
+      "DEX",
+      "Exchange",
+      "Gnosis",
+      "Governance",
+      "Polygon",
+      "Solana",
+      "Yearn",
+      "Yield"
+    ]
+  },
+  "SXPUSDT": {
+    "coin": "SXP",
+    "ticker": "SXP",
+    "tv": "SXPUSDT.P",
+    "circ_supply": 584372863.0,
+    "tags": [
+      "BNB",
+      "DeFi"
+    ]
+  },
+  "THETAUSDT": {
+    "coin": "Theta Network",
+    "ticker": "THETA",
+    "tv": "THETAUSDT.P",
+    "circ_supply": 1000170859.0,
+    "tags": [
+      "DePIN",
+      "NFT",
+      "SocialFi"
+    ]
+  },
+  "TIAUSDT": {
+    "coin": "TIA",
+    "ticker": "TIA",
+    "tv": "TIAUSDT.P",
+    "circ_supply":141043527,
+    "tags": [
+      "Cosmos",
+      "2023"
+    ]
+  },
+  "TLMUSDT": {
+    "coin": "Alien Worlds",
+    "ticker": "TLM",
+    "tv": "TLMUSDT.P",
+    "circ_supply": 3745995653.0,
+    "tags": [
+      "GameFi",
+      "NFT",
+      "Play To Earn"
+    ]
+  },
+  "TRBUSDT": {
+    "coin": "Tellor Tributes",
+    "ticker": "TRB",
+    "tv": "TRBUSDT.P",
+    "circ_supply": 2509161.0,
+    "tags": [
+      "Gnosis",
+      "Oracle",
+      "Polygon"
+    ]
+  },
+  "TRUUSDT": {
+    "coin": "TrueFi",
+    "ticker": "TRU",
+    "tv": "TRUUSDT.P",
+    "circ_supply": 1071743001.0,
+    "tags": [
+      "Lending",
+      "RWA",
+      "Yield",
+      "2023"
+    ]
+  },
+  "TRXUSDT": {
+    "coin": "TRON",
+    "ticker": "TRX",
+    "tv": "TRXUSDT.P",
+    "circ_supply": 88648126273.0,
+    "tags": [
+      "SEC",
+      "DWF",
+      "FTX",
+      "L1",
+      "Contracts"
+    ]
+  },
+  "TWTUSDT": {
+    "coin": "Trust Wallet",
+    "ticker": "TWT",
+    "tv": "TWTUSDT.P",
+    "circ_supply": 417878686.0,
+    "tags": [
+      "BNB",
+      "Wallets",
+      "2023"
+    ]
+  },
+  "UMAUSDT": {
+    "coin": "UMA",
+    "ticker": "UMA",
+    "tv": "UMAUSDT.P",
+    "circ_supply": 74870000.0,
+    "tags": [
+      "Avalanche",
+      "Derivatives",
+      "DeFi",
+      "Governance",
+      "Oracle",
+      "Polygon",
+      "Synthetic Issuer",
+      "2023"
+    ]
+  },
+  "UNFIUSDT": {
+    "coin": "Unifi Protocol DAO",
+    "ticker": "UNFI",
+    "tv": "UNFIUSDT.P",
+    "circ_supply": 7494410.0,
+    "tags": [
+      "BNB",
+      "Polygon"
+    ]
+  },
+  "UNIUSDT": {
+    "coin": "Uniswap",
+    "ticker": "UNI",
+    "tv": "UNIUSDT.P",
+    "circ_supply": 753818067.0,
+    "tags": [
+      "AMM",
+      "Avalanche",
+      "BNB",
+      "DEX",
+      "Ethereum",
+      "Exchange",
+      "Gnosis",
+      "Governance",
+      "Polygon",
+      "Yield"
+    ]
+  },
+  "USDCUSDT": {
+    "coin": "USDC",
+    "ticker": "USDC",
+    "tv": "USDCUSDT.P",
+    "circ_supply": 23859233539.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "Base",
+      "Canto",
+      "Cronos",
+      "Ethereum",
+      "Gnosis",
+      "Linea",
+      "Mantle",
+      "Near",
+      "Polygon",
+      "Solana",
+      "2023"
+    ]
+  },
+  "VETUSDT": {
+    "coin": "VeChain",
+    "ticker": "VET",
+    "tv": "VETUSDT.P",
+    "circ_supply": 72706055837.0,
+    "tags": [
+      "IOT",
+      "Contracts"
+    ]
+  },
+  "WAVESUSDT": {
+    "coin": "Waves",
+    "ticker": "WAVES",
+    "tv": "WAVESUSDT.P",
+    "circ_supply": 99155044.0,
+    "tags": [
+      "DWF",
+      "Ethereum",
+      "Contracts",
+      "Solana"
+    ]
+  },
+  "WAXPUSDT": {
+    "coin": "WAX",
+    "ticker": "WAXP",
+    "tv": "WAXPUSDT.P",
+    "circ_supply": 3368450694.0,
+    "tags": [
+      "GameFi",
+      "L1",
+      "NFT",
+      "Play To Earn",
+      "2023"
+    ]
+  },
+  "WLDUSDT": {
+    "coin": "Worldcoin",
+    "ticker": "WLD",
+    "tv": "WLDUSDT.P",
+    "circ_supply": 114406901.0,
+    "tags": [
+      "Ethereum",
+      "2023"
+    ]
+  },
+  "WOOUSDT": {
+    "coin": "WOO Network",
+    "ticker": "WOO",
+    "tv": "WOOUSDT.P",
+    "circ_supply": 1763088021.0,
+    "tags": [
+      "Avalanche",
+      "BNB",
+      "CEX",
+      "Ethereum",
+      "Exchange",
+      "Polygon",
+      "Solana"
+    ]
+  },
+  "XEMUSDT": {
+    "coin": "NEM",
+    "ticker": "XEM",
+    "tv": "XEMUSDT.P",
+    "circ_supply": 8999999999,
+    "tags": [
+      "XEM"
+    ]
+  },
+  "XLMUSDT": {
+    "coin": "Stellar",
+    "ticker": "XLM",
+    "tv": "XLMUSDT.P",
+    "circ_supply": 27945923196.0,
+    "tags": [
+      "Contracts"
+    ]
+  },
+  "XMRUSDT": {
+    "coin": "Monero",
+    "ticker": "XMR",
+    "tv": "XMRUSDT.P",
+    "circ_supply": 18119175.0,
+    "tags": [
+      "Privacy"
+    ]
+  },
+  "XRPUSDT": {
+    "coin": "XRP",
+    "ticker": "XRP",
+    "tv": "XRPUSDT.P",
+    "circ_supply": 53642716298.0,
+    "tags": [
+      "Asset Backed",
+      "FTX"
+    ]
+  },
+  "XTZUSDT": {
+    "coin": "Tezos",
+    "ticker": "XTZ",
+    "tv": "XTZUSDT.P",
+    "circ_supply": 890861935.0,
+    "tags": [
+      "L1",
+      "Contracts"
+    ]
+  },
+  "XVGUSDT": {
+    "coin": "Verge",
+    "ticker": "XVG",
+    "tv": "XVGUSDT.P",
+    "circ_supply": 16518402781.0,
+    "tags": [
+      "Privacy",
+      "2023"
+    ]
+  },
+  "XVSUSDT": {
+    "coin": "Venus",
+    "ticker": "XVS",
+    "tv": "XVSUSDT.P",
+    "circ_supply": 15305299.0,
+    "tags": [
+      "BNB",
+      "Lending",
+      "2023"
+    ]
+  },
+  "YFIUSDT": {
+    "coin": "yearn.finance",
+    "ticker": "YFI",
+    "tv": "YFIUSDT.P",
+    "circ_supply": 33443.0,
+    "tags": [
+      "Avalanche",
+      "Base",
+      "Ethereum",
+      "Gnosis",
+      "Governance",
+      "Polygon",
+      "Yearn",
+      "Yield"
+    ]
+  },
+  "YGGUSDT": {
+    "coin": "Yield Guild Games",
+    "ticker": "YGG",
+    "tv": "YGGUSDT.P",
+    "circ_supply": 283671257.0,
+    "tags": [
+      "GameFi",
+      "Metaverse",
+      "NFT",
+      "DWF",
+      "Play To Earn",
+      "2023"
+    ]
+  },
+  "ZECUSDT": {
+    "coin": "Zcash",
+    "ticker": "ZEC",
+    "tv": "ZECUSDT.P",
+    "circ_supply": 14425596.0,
+    "tags": [
+      "Privacy",
+      "ZK"
+    ]
+  },
+  "ZENUSDT": {
+    "coin": "Horizen",
+    "ticker": "ZEN",
+    "tv": "ZENUSDT.P",
+    "circ_supply": 14334810.0,
+    "tags": [
+      "Masternodes",
+      "Privacy",
+      "ZK"
+    ]
+  },
+  "ZILUSDT": {
+    "coin": "Zilliqa",
+    "ticker": "ZIL",
+    "tv": "ZILUSDT.P",
+    "circ_supply": 17298257240.0,
+    "tags": [
+      "BNB",
+      "Ethereum",
+      "Contracts"
+    ]
+  },
+  "ZRXUSDT": {
+    "coin": "0x Protocol",
+    "ticker": "ZRX",
+    "tv": "ZRXUSDT.P",
+    "circ_supply": 92721680.0,
+    "tags": [
+      "Avalanche",
+      "DEX",
+      "Governance",
+      "Polkadot",
+      "Polygon"
+    ]
+  }
+}

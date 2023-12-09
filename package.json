@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.6.0",
+    "ccxt": "^4.1.77",
+    "ololog": "^1.1.175",
+    "prisma": "^5.6.0",
+    "typescript": "^5.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.3"
+  }
+}
