@@ -7,6 +7,8 @@ async function get_fast(prisma:any, exchange: any, tickers: string[], epoch: any
     const results = await Promise.all(
       tickers.map(async (tickerSymbol) => {
         const modifiedTicker = tickerSymbol.slice(0, -4) + '/USDT:USDT';
+        //querying OI data at open of last candle and current candle
+        // saving it as oi data at "close"
         const OIDataPromise = exchange.fetchOpenInterestHistory(modifiedTicker, '5m', epoch, 1);
         const tickerDataPromise = exchange.fetchOHLCV(modifiedTicker, '5m', epoch, 1);
         const [OIData, tickerData] = await Promise.all([OIDataPromise, tickerDataPromise]);
@@ -34,7 +36,35 @@ async function get_fast(prisma:any, exchange: any, tickers: string[], epoch: any
             data: dataToSave,
           });
         } catch (error) {
-          console.error('Error fetching data:', (error as Error).message);
+          console.error('Error saving data:', (error as Error).message);
+          try {
+            await prisma.price_oi_data.upsert({
+              where: {
+                stampTicker: {
+                  timestamp: tickerData[0][0],
+                  ticker_name: tickerSymbol,
+                },
+              },
+              update: {
+                o,
+                h,
+                l,
+                c,
+                oi,
+              },
+              create: {
+                ticker_name: tickerSymbol,
+                timestamp: timestamp,
+                o: o,
+                h: h,
+                l: l,
+                c: c,
+                oi: oi,
+              },
+            });
+          } catch (error) {
+            console.error('Error updating data', (error as Error).message);
+          }
 
         }
         // Save data for the current ticker
@@ -48,9 +78,7 @@ async function get_fast(prisma:any, exchange: any, tickers: string[], epoch: any
     console.error('Error fetching data:', (error as Error).message);
   }
 }
-async function make_latest(){
 
-}
 
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));

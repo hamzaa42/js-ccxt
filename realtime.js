@@ -17,6 +17,8 @@ function get_fast(prisma, exchange, tickers, epoch) {
         try {
             const results = yield Promise.all(tickers.map((tickerSymbol) => __awaiter(this, void 0, void 0, function* () {
                 const modifiedTicker = tickerSymbol.slice(0, -4) + '/USDT:USDT';
+                //querying OI data at open of last candle and current candle
+                // saving it as oi data at "close"
                 const OIDataPromise = exchange.fetchOpenInterestHistory(modifiedTicker, '5m', epoch, 1);
                 const tickerDataPromise = exchange.fetchOHLCV(modifiedTicker, '5m', epoch, 1);
                 const [OIData, tickerData] = yield Promise.all([OIDataPromise, tickerDataPromise]);
@@ -42,7 +44,36 @@ function get_fast(prisma, exchange, tickers, epoch) {
                     });
                 }
                 catch (error) {
-                    console.error('Error fetching data:', error.message);
+                    console.error('Error saving data:', error.message);
+                    try {
+                        yield prisma.price_oi_data.upsert({
+                            where: {
+                                stampTicker: {
+                                    timestamp: tickerData[0][0],
+                                    ticker_name: tickerSymbol,
+                                },
+                            },
+                            update: {
+                                o,
+                                h,
+                                l,
+                                c,
+                                oi,
+                            },
+                            create: {
+                                ticker_name: tickerSymbol,
+                                timestamp: timestamp,
+                                o: o,
+                                h: h,
+                                l: l,
+                                c: c,
+                                oi: oi,
+                            },
+                        });
+                    }
+                    catch (error) {
+                        console.error('Error updating data', error.message);
+                    }
                 }
                 // Save data for the current ticker
                 console.log(`Fetched and saved data for ${modifiedTicker}`);
@@ -51,10 +82,6 @@ function get_fast(prisma, exchange, tickers, epoch) {
         catch (error) {
             console.error('Error fetching data:', error.message);
         }
-    });
-}
-function make_latest() {
-    return __awaiter(this, void 0, void 0, function* () {
     });
 }
 function sleep(ms) {
