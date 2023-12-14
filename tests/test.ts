@@ -248,49 +248,11 @@ export async function build_latest(prisma: any, exchange: any, ticker: string) {
   try {
 
     const monthly_open = calculateOpenTimestamp(latest_stamp + 300000, '1M');
-    // console.log(monthly_open)
-
     const weekly_open = calculateOpenTimestamp(latest_stamp + 300000, '1W');
-    // console.log(weekly_open)
-
     const daily_open = calculateOpenTimestamp(latest_stamp + 300000, '1D');
-    // console.log(daily_open)
-
     const four_hour_open = calculateOpenTimestamp(latest_stamp + 300000, '4h');
-    // console.log(four_hour_open)
-
     const one_hour_open = calculateOpenTimestamp(latest_stamp + 300000, '1h');
-    // console.log(one_hour_open)
-
     const fifteen_minute_open = calculateOpenTimestamp(latest_stamp + 300000, '15m');
-    // console.log(fifteen_minute_open)
-
-
-
-    const monthlyData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, monthly_open - 300000, false) || { priceChange: null, oiChange: null };
-    console.log('Monthly Open Price Change:', monthlyData.priceChange !== null ? monthlyData.priceChange : 'Data is null');
-    console.log('Monthly Open OI Change:', monthlyData.oiChange !== null ? monthlyData.oiChange : 'Data is null');
-
-    const weeklyData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, weekly_open - 300000, false) || { priceChange: null, oiChange: null };
-    console.log('Weekly Open Price Change:', weeklyData.priceChange !== null ? weeklyData.priceChange : 'Data is null');
-    console.log('Weekly Open OI Change:', weeklyData.oiChange !== null ? weeklyData.oiChange : 'Data is null');
-
-    const dailyData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, daily_open - 300000, false) || { priceChange: null, oiChange: null };
-    console.log('Daily Open Price Change:', dailyData.priceChange !== null ? dailyData.priceChange : 'Data is null');
-    console.log('Daily Open OI Change:', dailyData.oiChange !== null ? dailyData.oiChange : 'Data is null');
-
-    const fourHourData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, four_hour_open - 300000, false) || { priceChange: null, oiChange: null };
-    console.log('Four-Hour Open Price Change:', fourHourData.priceChange !== null ? fourHourData.priceChange : 'Data is null');
-    console.log('Four-Hour Open OI Change:', fourHourData.oiChange !== null ? fourHourData.oiChange : 'Data is null');
-
-    const oneHourData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, one_hour_open - 300000, false) || { priceChange: null, oiChange: null };
-    console.log('One-Hour Open Price Change:', oneHourData.priceChange !== null ? oneHourData.priceChange : 'Data is null');
-    console.log('One-Hour Open OI Change:', oneHourData.oiChange !== null ? oneHourData.oiChange : 'Data is null');
-
-    const fifteenMinuteData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, fifteen_minute_open - 300000, false) || { priceChange: null, oiChange: null };
-    console.log('Fifteen-Minute Open Price Change:', fifteenMinuteData.priceChange !== null ? fifteenMinuteData.priceChange : 'Data is null');
-    console.log('Fifteen-Minute Open OI Change:', fifteenMinuteData.oiChange !== null ? fifteenMinuteData.oiChange : 'Data is null');
-
     const fifteen_minutes_ago_calc = 1000 * 60 * 15
 
     const one_hour_ago_calc = fifteen_minutes_ago_calc * 4
@@ -312,6 +274,33 @@ export async function build_latest(prisma: any, exchange: any, ticker: string) {
     const dayAgoData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, day_ago, true) || { priceChange: null, oiChange: null };
     const weekAgoData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, week_ago, true) || { priceChange: null, oiChange: null };
     const monthAgoData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, month_ago, true) || { priceChange: null, oiChange: null };
+
+    const monthlyData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, monthly_open - 300000, false) || { priceChange: null, oiChange: null };
+    const weeklyData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, weekly_open - 300000, false) || { priceChange: null, oiChange: null };
+    const dailyData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, daily_open - 300000, false) || { priceChange: null, oiChange: null };
+    const fourHourData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, four_hour_open - 300000, false) || { priceChange: null, oiChange: null };
+    const oneHourData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, one_hour_open - 300000, false) || { priceChange: null, oiChange: null };
+    const fifteenMinuteData = await fetchDataAndCalculateChanges(prisma, ticker, latest_data, latest_oi, fifteen_minute_open - 300000, false) || { priceChange: null, oiChange: null };
+    
+    console.log('Monthly Open Price Change:', monthlyData.priceChange !== null ? monthlyData.priceChange : 'Data is null');
+    console.log('Monthly Open OI Change:', monthlyData.oiChange !== null ? monthlyData.oiChange : 'Data is null');
+
+    console.log('Weekly Open Price Change:', weeklyData.priceChange !== null ? weeklyData.priceChange : 'Data is null');
+    console.log('Weekly Open OI Change:', weeklyData.oiChange !== null ? weeklyData.oiChange : 'Data is null');
+
+    console.log('Daily Open Price Change:', dailyData.priceChange !== null ? dailyData.priceChange : 'Data is null');
+    console.log('Daily Open OI Change:', dailyData.oiChange !== null ? dailyData.oiChange : 'Data is null');
+
+    console.log('Four-Hour Open Price Change:', fourHourData.priceChange !== null ? fourHourData.priceChange : 'Data is null');
+    console.log('Four-Hour Open OI Change:', fourHourData.oiChange !== null ? fourHourData.oiChange : 'Data is null');
+
+    console.log('One-Hour Open Price Change:', oneHourData.priceChange !== null ? oneHourData.priceChange : 'Data is null');
+    console.log('One-Hour Open OI Change:', oneHourData.oiChange !== null ? oneHourData.oiChange : 'Data is null');
+
+    console.log('Fifteen-Minute Open Price Change:', fifteenMinuteData.priceChange !== null ? fifteenMinuteData.priceChange : 'Data is null');
+    console.log('Fifteen-Minute Open OI Change:', fifteenMinuteData.oiChange !== null ? fifteenMinuteData.oiChange : 'Data is null');
+
+
 
     // Console log statements
     console.log('Month Ago Price Change:', monthAgoData.priceChange !== null ? monthAgoData.priceChange : 'Data is null');
