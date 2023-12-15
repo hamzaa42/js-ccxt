@@ -73,7 +73,7 @@
     "coin": "Bonk",
     "ticker": "BONK",
     "tv": "1000BONKUSDT.P",
-    "circ_supply": 93689234980611.0,
+    "circ_supply": 60837624528359.0,
     "tags": [
       "Ethereum",
       "Meme",
@@ -2443,28 +2443,7 @@
       "Yield"
     ]
   },
-  "USDCUSDT": {
-    "coin": "USDC",
-    "ticker": "USDC",
-    "tv": "USDCUSDT.P",
-    "circ_supply": 23859233539.0,
-    "tags": [
-      "Avalanche",
-      "BNB",
-      "Base",
-      "Canto",
-      "Cronos",
-      "Ethereum",
-      "Gnosis",
-      "Linea",
-      "Mantle",
-      "Near",
-      "Polygon",
-      "Solana",
-      "2023"
-    ]
-  },
-  "VETUSDT": {
+"VETUSDT": {
     "coin": "VeChain",
     "ticker": "VET",
     "tv": "VETUSDT.P",

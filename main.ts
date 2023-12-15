@@ -1,6 +1,6 @@
 // main.ts
-import { get_latest } from './realtime';
-import { startSync } from './fetchDataForTickers';
+import { get_latest } from './fetch_realtime';
+import { startSync } from './fetch_historical';
 import { initializeTickers } from './initialize_tickers';
 
 import { PrismaClient } from '@prisma/client';

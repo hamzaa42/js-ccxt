@@ -88,7 +88,7 @@ export async function startSync(prisma:any, exchange:any) {
 
   // let timestamp = currentUtcMidnightTimestamp - singleDay*4 
   //set start point here
-  let timestamp = currentUtcMidnightTimestamp - singleDay*90
+  let timestamp = currentUtcMidnightTimestamp - singleDay*32
   while (Date.now() - timestamp > 0) {
     await fetchUpdate(prisma, timestamp, exchange, tickers, step);
 

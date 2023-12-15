@@ -1,5 +1,6 @@
 // websocketUpdater.ts
 import { fetchTickers } from './fetch_tickers';
+import { build_latest } from './build_latest';
 
 async function get_fast(prisma:any, exchange: any, tickers: string[], epoch: any) {
 
@@ -41,7 +42,7 @@ async function get_fast(prisma:any, exchange: any, tickers: string[], epoch: any
             await prisma.price_oi_data.upsert({
               where: {
                 stampTicker: {
-                  timestamp: tickerData[0][0],
+                  timestamp,
                   ticker_name: tickerSymbol,
                 },
               },
@@ -95,6 +96,8 @@ export async function get_latest(prisma:any, exchange: any) {
     console.log(epochTime)
     await sleep(seconds_until_next_run * 1000);
     await get_fast(prisma, exchange, tickers, epochTime);
+    await build_latest(prisma,exchange,tickers)
+    
   }
 
 }

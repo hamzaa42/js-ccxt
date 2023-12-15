@@ -33,19 +33,16 @@ model latest_insights {
   ticker_name String
   timestamp   BigInt
   mcap        Float
-  mcap_oi     Float
+  oi_mcap     Float
   o           Float
-  h           Float
-  l           Float
-  c           Float
   oi          Float
 
   r_p_15m     Float
   r_p_1h      Float
   r_p_4h      Float
   r_p_1D      Float
-  r_p_1W      Float
-  r_p_1M      Float
+  r_p_1W      Float?
+  r_p_1M      Float?
 
   r_oi_15m     Float
   r_oi_1h     Float
@@ -69,7 +66,7 @@ model latest_insights {
   o_p_1W      Float
   o_p_1M      Float
 
-  o_oi_15m    Float?
+  o_oi_15m    Float
   o_oi_1h     Float
   o_oi_4h     Float
   o_oi_1D     Float

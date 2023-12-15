@@ -13,8 +13,8 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 // main.ts
-const realtime_1 = require("./realtime");
-const fetchDataForTickers_1 = require("./fetchDataForTickers");
+const fetch_realtime_1 = require("./fetch_realtime");
+const fetch_historical_1 = require("./fetch_historical");
 const initialize_tickers_1 = require("./initialize_tickers");
 const client_1 = require("@prisma/client");
 const ccxt_1 = __importDefault(require("ccxt"));
@@ -23,8 +23,8 @@ function main() {
         const prisma = new client_1.PrismaClient();
         const binance = new ccxt_1.default.pro.binance();
         yield (0, initialize_tickers_1.initializeTickers)(prisma);
-        yield (0, fetchDataForTickers_1.startSync)(prisma, binance);
-        yield (0, realtime_1.get_latest)(prisma, binance);
+        yield (0, fetch_historical_1.startSync)(prisma, binance);
+        yield (0, fetch_realtime_1.get_latest)(prisma, binance);
         yield binance.close();
         yield prisma.$disconnect();
     });
