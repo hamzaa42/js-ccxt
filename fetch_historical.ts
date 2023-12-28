@@ -88,9 +88,15 @@ export async function startSync(prisma:any, exchange:any) {
 
   // let timestamp = currentUtcMidnightTimestamp - singleDay*4 
   //set start point here
-  let timestamp = currentUtcMidnightTimestamp - singleDay*32
+  let timestamp = currentUtcMidnightTimestamp - singleDay * 32
   while (Date.now() - timestamp > 0) {
+    const startTime = Date.now();
     await fetchUpdate(prisma, timestamp, exchange, tickers, step);
+    const timeTaken = Date.now() - startTime;
+
+    const delayDuration = Math.max(0, 30000 - timeTaken);
+    await new Promise(resolve => setTimeout(resolve, delayDuration));
+
 
     timestamp = timestamp + increment
 
